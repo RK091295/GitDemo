@@ -81,6 +81,13 @@ public class SubmitOrderTest extends BaseTest{
 		
 	}
 	
+	@Test
+	public void doNothing() throws IOException
+	{
+
+		
+		
+	}
 	
 	
 	
