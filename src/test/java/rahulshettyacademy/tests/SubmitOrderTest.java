@@ -97,6 +97,21 @@ public class SubmitOrderTest extends BaseTest{
 		
 	}
 	
+	@Test
+	public void doNothing3() throws IOException
+	{
+
+		
+		
+	}
+	
+	@Test
+	public void doNothing4() throws IOException
+	{
+
+		
+		
+	}
 	
 	
 //	 @DataProvider
